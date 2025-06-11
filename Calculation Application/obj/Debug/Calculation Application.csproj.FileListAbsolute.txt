@@ -1,0 +1,10 @@
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\bin\Debug\Calculation Application.exe.config
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\bin\Debug\Calculation Application.exe
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\bin\Debug\Calculation Application.pdb
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation Application.csproj.AssemblyReference.cache
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation_Application.Properties.Resources.resources
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation Application.csproj.GenerateResource.cache
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation Application.csproj.CoreCompileInputs.cache
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation Application.exe
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation Application.pdb
+C:\Users\shemac\source\repos\Calculation Application\Calculation Application\obj\Debug\Calculation_Application.Calculate.resources
